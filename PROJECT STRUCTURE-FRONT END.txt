@@ -1,0 +1,8 @@
+src/
+│── components/
+│   ├── EmployeeList.js
+│   ├── EmployeeForm.js
+│── services/
+│   ├── EmployeeService.js
+│── App.js
+│── index.js

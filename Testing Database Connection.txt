@@ -1,0 +1,8 @@
+After running:
+
+mvn spring-boot:run
+
+Check if your table is created using:
+
+SHOW TABLES;
+SELECT * FROM employees;

@@ -1,0 +1,15 @@
+com.mahi.sms
+│── config
+│   ├── SecurityConfig.java
+│── controller
+│   ├── EmployeeController.java
+│── entity
+│   ├── Employee.java
+│── repository
+│   ├── EmployeeRepository.java
+│── service
+│   ├── EmployeeService.java
+│   ├── EmployeeServiceImpl.java
+│── dto
+│   ├── EmployeeDTO.java
+│── EmployeeManagementApplication.java

@@ -1,0 +1,13 @@
+You can insert sample employees in data.sql (inside src/main/resources):
+
+INSERT INTO employees (name, email, department, salary) VALUES
+('John Doe', 'john@example.com', 'IT', 60000),
+('Jane Smith', 'jane@example.com', 'HR', 55000);
+
+Ensure the following in application.properties:
+
+properties
+------------
+spring.sql.init.mode=always
+
+This ensures that data.sql runs when the application starts.

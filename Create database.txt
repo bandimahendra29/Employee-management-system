@@ -1,0 +1,4 @@
+Create a Database
+Open MySQL Workbench or Command Line and create a database:
+
+CREATE DATABASE employee_db;
